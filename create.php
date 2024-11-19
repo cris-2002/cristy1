@@ -1,8 +1,8 @@
 <?php
 // Database connection settings
 $servername = "localhost";
-$username = "root"; // Update with your database username
-$password = ""; // Update with your database password
+$username = "cristy"; // Update with your database username
+$password = "gocong"; // Update with your database password
 $dbname = "crud_db"; // Database name
 
 // Create connection
